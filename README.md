@@ -1,10 +1,10 @@
-##日本語
+## 日本語
 ### 資格
 - 応用情報技術者試験　2023月6月30日
 ### インターンシップ
 - 株式会社　Adam-I Ventures 2023月9月25日~10月31日
 
-##ENGLISH
+## ENGLISH
 ### CERTIFICATION
 　- Applied Information Technology Engineer Examination 2023/6/30
 ### INTERNSHIP
