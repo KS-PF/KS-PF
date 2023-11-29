@@ -1,8 +1,7 @@
 ## KS-PF
 ### EDUCATION
 - Studying at University
-### QUALIFICATIONS/SPECIAL SKILLS
-- Applied Information Technology Engineer Examination
+
 
 
 <!---
