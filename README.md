@@ -1,8 +1,6 @@
 ## KS-PF
 ### EDUCATION
-- Currently studying at University
-### INTERNSHIP
-- 
+- Studying at University
 ### QUALIFICATIONS/SPECIAL SKILLS
 - Applied Information Technology Engineer Examination
 - 
