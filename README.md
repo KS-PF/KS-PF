@@ -1,5 +1,5 @@
 ## ENGLISH
-###EDUCATION
+### EDUCATION
 - High scool graduate
 - Currently studying at University
 ### INTERNSHIP
