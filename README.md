@@ -1,9 +1,8 @@
 ## KS-PF
 ### EDUCATION
-- High scool graduate
 - Currently studying at University
 ### INTERNSHIP
-- Internship for about 1 month at an IT consulting company
+- 
 ### QUALIFICATIONS/SPECIAL SKILLS
 - Applied Information Technology Engineer Examination
 - 
