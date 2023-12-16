@@ -1,14 +1,13 @@
 ## KS-PF
 ### EDUCATION
-- Now,I am studying at University
+- Now, I am studying at University
 ### My QUALIFICATIONS/SPECIAL SKILLS
-- Applied Information Technology Engineer Examination (national qualification)
+- Applied Information Technology Engineer Examination (Japanese National Qualification)
 ###  What I am studying now
-- English (TOEIC)
 - Programming
-  
-- Information Security Management Examination (national qualification)
-- Registered Information Security Specialist Examination (national qualification)
+- English (TOEIC)
+- Information Security Management Examination (Japanese National Qualification)
+- Registered Information Security Specialist Examination (Japanese National Qualification)
 
 
 <!---
