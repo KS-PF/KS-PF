@@ -3,11 +3,6 @@
 - Now, I am studying at University
 ### My QUALIFICATIONS/SPECIAL SKILLS
 - Applied Information Technology Engineer Examination
-###  WHAT I AM STUDYING NOW
-- Programming
-- English (TOEIC)
-- Information Security Management Examination
-- Registered Information Security Specialist Examination
 
 
 <!---
