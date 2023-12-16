@@ -2,12 +2,12 @@
 ### EDUCATION
 - Now, I am studying at University
 ### My QUALIFICATIONS/SPECIAL SKILLS
-- Applied Information Technology Engineer Examination (Japanese National Qualification)
+- Applied Information Technology Engineer Examination
 ###  WHAT I AM STUDYING NOW
 - Programming
 - English (TOEIC)
-- Information Security Management Examination (Japanese National Qualification)
-- Registered Information Security Specialist Examination (Japanese National Qualification)
+- Information Security Management Examination
+- Registered Information Security Specialist Examination
 
 
 <!---
