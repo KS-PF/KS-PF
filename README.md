@@ -1,4 +1,4 @@
-## KS-PF :cat:
+## KS-PF 
 ### EDUCATION
 - Now, I am studying at University
 ### My QUALIFICATIONS/SPECIAL SKILLS
