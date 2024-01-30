@@ -1,8 +1,16 @@
 ## KS-PF 
 ### EDUCATION
 - I am studying at University
-### My QUALIFICATIONS/SPECIAL SKILLS
+### QUALIFICATIONS
 - Applied Information Technology Engineer Examination
+### Programming
+#### Language
+- Python
+- Javascript
+- HTML & CSS
+- C#
+#### Framework
+- Django
 
 
 <!---
