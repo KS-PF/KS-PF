@@ -6,11 +6,15 @@
 ### Programming
 #### Language
 - Python
+- Php
 - Javascript
-- HTML & CSS
 - C#
+- Dart
+
+- - HTML & CSS
 #### Framework
 - Django
+- Flutter
 
 
 <!---
