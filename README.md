@@ -1,6 +1,3 @@
-## KS-PF 
-### EDUCATION
-- I am studying at University
 ### QUALIFICATIONS
 - Applied Information Technology Engineer Examination
 ### Programming
