@@ -1,17 +1,4 @@
-### QUALIFICATIONS
-- Applied Information Technology Engineer Examination
-### Programming
-#### Language
-- Python
-- Php
-- Javascript
-- C#
-- Dart
-
-- - HTML & CSS
-#### Framework
-- Django
-- Flutter
+Hello World
 
 
 <!---
