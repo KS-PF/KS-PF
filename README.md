@@ -7,7 +7,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,django,flask,flutter,php,py,react,sqlite,ts,vite,html,css,md,js,dart,bootstrap,blender" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,django,flask,html,css,bootstrap,js,ts,react,vite,dart,flutter,blenderphp,sqlite," />
   </a>
 </p>
 
