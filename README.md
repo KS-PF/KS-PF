@@ -1,8 +1,8 @@
 # KS-PF
-Hello World !!
+## Hello World !!
 
-- I'm a college student majoring in Cloud and Security.
-- I have a certification in Applied Information Technology Engineer Examination.
+☑ I'm a college student majoring in Cloud and Security.
+☑ I have a certification in Applied Information Technology Engineer Examination.
 
 
 
