@@ -4,6 +4,9 @@
 - I'm a college student majoring in Cloud and Security.
 - I have a certification in Applied Information Technology Engineer Examination.
 
+## Qualification
+- 応用情報技術者試験 2023 (Applied Information Technology Engineer Examination)
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
