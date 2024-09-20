@@ -1,6 +1,7 @@
 # KS-PF 👋
 ## Hello World !! 🌏
 - I'm a professional university student.
+- I like walking.
 
 ## Qualification/Activities 🏅
 - 応用情報技術者試験 (Applied Information Technology Engineer Examination) 2023
