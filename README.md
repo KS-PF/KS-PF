@@ -1,19 +1,19 @@
-# KS-PF 🎌
-## Hello World !!
+# KS-PF 
+## Hello World !! 🌏
 
 - I'm a professional university student.
 
-## Qualification
+## Qualification 🏅
 - 応用情報技術者試験 (Applied Information Technology Engineer Examination) 2023
 
-## Skills
+## Skills 💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,django,flask,html,css,bootstrap,js,ts,react,vite,blender,php,sqlite," />
   </a>
 </p>
 
-## Activities
+## Activities 🏆
 - ICPC
 - Paiza S
 <!---
