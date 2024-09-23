@@ -15,6 +15,8 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,py,django,flask,html,css,bootstrap,js,ts,react,vite,blender,php,sqlite&perline=3)](https://skillicons.dev)
+
 <!---
 KS-PF/KS-PF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
